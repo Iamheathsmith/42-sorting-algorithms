@@ -7,4 +7,4 @@ let test2 = [8,5];
 
 
 console.log('orignal with 8', mergeSort(test));
-console.log('orignal with 2', mergeSort(test2));
+// console.log('orignal with 2', mergeSort(test2));

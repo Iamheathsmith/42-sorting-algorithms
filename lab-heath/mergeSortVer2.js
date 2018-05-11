@@ -20,6 +20,7 @@ const mergeSort = items => {
       items = items.concat(leftSide);
       break;
     }
+
     if(!leftSide.length && rightSide.length) {
       items = items.concat(rightSide);
       break;
